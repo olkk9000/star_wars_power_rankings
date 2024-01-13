@@ -5,3 +5,5 @@
 "Do. Or do not. There is no try." ~Yoda, Jedi Grand Master/Linguistic Innovator
 
 "You must unlearn what you have learned." Yoda, in Empire
+
+![](https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif)
